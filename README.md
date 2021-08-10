@@ -1,2 +1,2 @@
 # AxNetConnectorToIDM
-User Management Dynamics Ax 2009 console application on .NET
+Dynamics Ax 2009 User Management console application on .NET
